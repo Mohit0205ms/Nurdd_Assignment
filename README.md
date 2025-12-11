@@ -211,6 +211,7 @@ For support and questions:
 ---
 
 ## Demo
+### Screen Short
 <img src="https://github.com/user-attachments/assets/a764dd4c-c21b-4ea2-bc6c-d1e8d4844a24" width="300" height="600"/>
 
 <img src="https://github.com/user-attachments/assets/383a85b4-791a-4ca6-99f9-308e4fc1f46b" width="300" height="600"/>
@@ -219,3 +220,6 @@ For support and questions:
 
 <img src="https://github.com/user-attachments/assets/223933e9-75f4-4e74-abe5-6246f1482bc6" width="300" height="600"/>
 
+### Video
+
+<video src="https://github.com/user-attachments/assets/a3165beb-f04c-44ab-9350-abd80a7272f7" />
