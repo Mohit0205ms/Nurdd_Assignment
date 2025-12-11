@@ -8,6 +8,7 @@ import {
   ActivityIndicator,
   BackHandler,
   Alert,
+  RefreshControl,
 } from 'react-native';
 import { usePosts } from '../../hooks/usePosts';
 import Card from '../../components/Card';
@@ -87,6 +88,12 @@ export default function Home() {
               />
             )}
             contentContainerStyle={{ paddingBottom: 120 }}
+            refreshControl={
+              <RefreshControl
+                refreshing={loading}
+                onRefresh={fetchPosts}
+              />
+            }
           />
         )}
         <View style={styles.fab}>
